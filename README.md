@@ -9,7 +9,7 @@ This project analyzes and mdoels wait times across 26 Disney World rides using d
 - Ride wait times: posted and actual wait times per ride per hour
 - Weather: daily temperature and precipitation from Kissimmee, FL
 - Metadata: Disney park seasons/holidays calendar
-- Raw data not included in this repo due to size, but can be found here:
+- Raw data not included in this repo due to size, but can be found here: https://drive.google.com/drive/folders/10vja2BRC6dOKRijGzBRGuL99LhjXdDsX?usp=share_link
 
 ## Features Used
 - Hour of day, day of week, month, season
